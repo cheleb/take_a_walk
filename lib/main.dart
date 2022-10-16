@@ -50,6 +50,7 @@ class _MyAppState extends State<MyApp> {
           ),
           markers: _markers.values.toSet(),
         ),
+        bottomNavigationBar: const GeolocatorWidget(),
       ),
     );
   }

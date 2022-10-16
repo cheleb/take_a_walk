@@ -49,5 +49,7 @@
 	<true/>
 	<key>DART_DEFINES</key>
     <string>$(DART_DEFINES)</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app needs to access your location</string>
 </dict>
 </plist>
